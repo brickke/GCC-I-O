@@ -18,7 +18,7 @@ import java.sql.Statement;
 public class JDBC {
   public static void main(String[] args) throws SQLException{
       
-      String url = "jdbc:mysql://localhost:3303/db_primary";
+      String url = "jdbc:mysql://4.tcp.ngrok.io:17608/db_primary";
       String uname = "root";
       String password = "root@123pass";
       String query = "select * from grade1";
