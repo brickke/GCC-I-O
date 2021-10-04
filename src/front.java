@@ -72,13 +72,13 @@ PreparedStatement pst=null;
 
         jLabel3.setText("LASTNAME:");
 
-        lblfn.setText("jLabel5");
+        lblfn.setText("firstname");
 
-        lbln.setText("jLabel6");
+        lbln.setText("lastname");
 
         jLabel7.setText("COURSE:");
 
-        lblcourse.setText("jLabel8");
+        lblcourse.setText("course");
 
         ok.setText("OK");
         ok.addActionListener(new java.awt.event.ActionListener() {
